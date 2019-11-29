@@ -1,0 +1,6 @@
+framework module Pods_KLModel_Example {
+  umbrella header "Pods-KLModel_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

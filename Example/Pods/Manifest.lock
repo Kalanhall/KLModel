@@ -1,0 +1,16 @@
+PODS:
+  - KLModel (1.0.0)
+
+DEPENDENCIES:
+  - KLModel (from `../`)
+
+EXTERNAL SOURCES:
+  KLModel:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  KLModel: 55db0c152888de70f42364635261049e188eb166
+
+PODFILE CHECKSUM: eaa6f7ee785fb3edb3e17e8ee4a77691b58ddeb1
+
+COCOAPODS: 1.8.3
